@@ -1,3 +1,4 @@
+//author:wanghongxin concat:wanghongxin@outlook.com QQ2262118088
 var mv = function() {
     //刷新屏幕前执行回调函数
     var redraw =window.requestAnimationFrame ||
